@@ -1,7 +1,7 @@
-# Superhero API
+# Superhero Code API
 
 ## Description
-The *Superhero API* is a Flask-based RESTful API that allows users to manage heroes, their powers, and the relationbaships between them. The API supports CRUD operations for heroes and powers, as well as validations to ensure data integrity.
+The *Superhero Code API* is a Flask-based RESTful API that allows users to manage heroes, their powers, and the relationbaships between them. The API supports CRUD operations for heroes and powers, as well as validations to ensure data integrity.
 
 ## Features
 - Retrieve a list of all heroes and their details
